@@ -1,0 +1,14 @@
+GHCi, version 9.2.2: https://www.haskell.org/ghc/  :? for help
+ghci> let suma a b = a + b
+ghci> let resta a b = a - b
+ghci> let multi a b = a * b
+ghci> let div a b = a/b
+ghci> suma 3 4
+7
+ghci> resta 2 5
+-3
+ghci> multi 34 56
+1904
+ghci> div 4 5
+0.8
+ghci>
