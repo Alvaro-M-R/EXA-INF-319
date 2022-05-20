@@ -1,0 +1,1 @@
+plot(iris[,1:4], pch=21, bg=c("red","green","blue")[unclass(iris$Species)], main="Alvaro MR Grafico")
